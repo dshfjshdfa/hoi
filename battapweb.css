@@ -1,0 +1,19 @@
+img.x{
+    
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1
+}
+h1{
+    position: absolute;
+    text-align: center;
+    font-size: 70px;
+    padding-left: 600px;
+}
+p{
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+    font-size: 50px;
+}
